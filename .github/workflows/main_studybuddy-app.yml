@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'StudyBuddy-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCF4035184A74714A28E06981EC419C8 }}
+          publish-profile: ${{ secrets.AZURE_SECTRE_KEY }}
