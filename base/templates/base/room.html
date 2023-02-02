@@ -131,7 +131,7 @@
             {% for user in participants %}
             <a href="{% url 'user-profile' user.id %}" class="participant">
               <div class="avatar avatar--medium">
-                <img src="https://randomuser.me/api/portraits/men/37.jpg" />
+                <img src="{{user.avatar.url}}" />
               </div>
               <p>
                 {{user.username}}
