@@ -25,7 +25,7 @@ SECRET_KEY = 'l$87_@f7qvhm%_go@h1ll58=1_n!(ko3sa*$10gw&560$^s)26'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://studybuddy-app.azurewebsites.net']
 
 
 # Application definition
