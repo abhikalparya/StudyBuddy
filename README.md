@@ -36,9 +36,32 @@ StudyBuddy is a web application that allows students to find study partners for 
 
 ## 📸Screenshots
 
+>Login Page
+![login-page](https://user-images.githubusercontent.com/81465377/216761524-6e08761a-7d7d-40b6-9949-ba2bdc0a5a2a.jpg)
+
+>Signup Page
+![signup-page](https://user-images.githubusercontent.com/81465377/216761550-02830aa7-c529-413c-b8e1-4436a02fe910.jpg)
+
+>Home Page
+![home](https://user-images.githubusercontent.com/81465377/216761576-5e4621d2-953d-41ad-b8dd-6f5ff65993ef.jpg)
+
+>Profile Page
+![profile](https://user-images.githubusercontent.com/81465377/216761593-c2085db8-b5a1-4a5b-80df-759d2224ac14.jpg)
+
+>Create Study Room
+![create-room](https://user-images.githubusercontent.com/81465377/216761626-c729058a-5609-4478-845c-418fb95c4085.jpg)
+
+>Study Room
+![room](https://user-images.githubusercontent.com/81465377/216761652-35407aa9-1dff-406b-86fc-df1659b6f4d8.jpg)
+
+>Edit Profile
+![edit-profile](https://user-images.githubusercontent.com/81465377/216761663-86396871-c40c-41e2-a9b9-3f5a8b0dcee7.jpg)
+
 ---
 
 ## 🎥Demo
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) <br>
+[![Video](https://img.youtube.com/vi/GReHXtIDayg/0.jpg)](https://www.youtube.com/watch?v=GReHXtIDayg)
 
 --- 
 
